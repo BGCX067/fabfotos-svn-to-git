@@ -1,0 +1,22 @@
+??body 
+{
+	font-family: Comic Sans MS, Verdana, Sans-Serif;
+	text-align: center;
+}
+
+div
+{
+	margin: 22px auto 22px auto;
+}
+
+.images
+{
+  width: 200px;
+  height: 200px;
+}
+
+.imagesList { margin-top: 5px; margin-bottom: 20px; width: 100%; }
+.imagesList .Photo { width: 33%; vertical-align: middle; text-align: center; padding-bottom: 5px; }
+
+
+
